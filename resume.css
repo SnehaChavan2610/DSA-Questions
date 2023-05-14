@@ -1,0 +1,20 @@
+.resume
+{
+	border: 2px solid grey;
+	padding: 5px;
+	padding-left: 10px;
+}
+.pinfo span
+{
+	font-weight: bolder;
+}
+.sep
+{
+	height: 30px;
+	width: 98%;
+	background-color: lightgrey;
+	font-size: 15px;
+	font-weight: bolder;
+	padding-left: 15px;
+	padding-top: 5px;
+}
